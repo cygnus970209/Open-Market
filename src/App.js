@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          용석이 병신
+          Soon Later
         </a>
       </header>
     </div>
